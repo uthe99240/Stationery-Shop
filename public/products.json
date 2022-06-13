@@ -1,0 +1,73 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Garden Tulip",
+      "price": 199,
+      "img": "./images/A.jpg"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "Sunflower",
+      "price": 299,
+      "img": "./images/B.jpg"
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "Rose",
+      "price": 149,
+      "img": "./images/C.jpg"
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "name": "Orchid",
+      "price": 229,
+      "img": "./images/D.jpg"
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "name": "Freesia",
+      "price": 287,
+      "img": "./images/E.jpg"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "name": "Carnation",
+      "price": 138,
+      "img": "./images/F.jpg"
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "name": "Chrysanthemum",
+      "price": 269,
+      "img": "./images/G.jpg"
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "name": "Peruvian Lily",
+      "price": 319,
+      "img": "./images/H.jpg"
+    },
+    {
+      "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+      "name": "Gladiolus",
+      "price": 260,
+      "img": "./images/I.jpg"
+    },
+    {
+      "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+      "name": "Anemone",
+      "img": "./images/285376334_2368657489943129_2477385599132809961_n.jpg"
+    },
+    {
+      "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+      "name": "Daffodil",
+      "price": 146,
+      "img": "./images/285448844_2368679423274269_1648967613316658700_n.jpg"
+    },
+    {
+      "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+      "name": "Poppy",
+      "price": 159,
+      "img": "./images/285534351_2368657823276429_7026584341320820497_n.jpg"
+    }
+  ]
